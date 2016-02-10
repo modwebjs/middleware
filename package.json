@@ -1,6 +1,6 @@
 {
   "name": "modweb-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves request url, renders page and outputs it.",
   "main": "lib/middleware.js",
   "scripts": {
