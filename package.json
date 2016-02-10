@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/modwebjs/middleware/issues"
   },
-  "homepage": "https://github.com/modwebjs/middleware#readme"
+  "homepage": "https://github.com/modwebjs/middleware#readme",
+  "dependencies": {
+    "modweb-processor": "^1.0.0",
+    "modweb-router": "^1.2.1"
+  }
 }
